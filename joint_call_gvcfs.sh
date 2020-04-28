@@ -4,7 +4,7 @@
 export SENTIEON_LICENSE=mn01:9000
 SENTIEON_INSTALL_DIR=/public/home/software/opt/bio/software/Sentieon/201808.07
 
-UASGE='bash $(basename $0) -r your_ref_file -o output_file '
+UASGE='USAGE:  bash $(basename $0) -r your_ref_file -o output_file '
 
 ## arguments setting
 while getopts ":r:o:" opt

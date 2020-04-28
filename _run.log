@@ -1,0 +1,20 @@
+DNAscope_gvcf.sh: line 80: /public/home/software/opt/bio/software/Sentieon/201808.07/bin/sentieon: No such file or directory
+DNAscope_gvcf.sh: line 80: /public/home/software/opt/bio/software/Sentieon/201808.07/bin/sentieon: No such file or directory
+DNAscope_gvcf.sh: line 90: /public/home/software/opt/bio/software/Sentieon/201808.07/bin/sentieon: No such file or directory
+DNAscope_gvcf.sh: line 91: /public/home/software/opt/bio/software/Sentieon/201808.07/bin/sentieon: No such file or directory
+DNAscope_gvcf.sh: line 92: /public/home/software/opt/bio/software/Sentieon/201808.07/bin/sentieon: No such file or directory
+DNAscope_gvcf.sh: line 93: /public/home/software/opt/bio/software/Sentieon/201808.07/bin/sentieon: No such file or directory
+DNAscope_gvcf.sh: line 94: /public/home/software/opt/bio/software/Sentieon/201808.07/bin/sentieon: No such file or directory
+DNAscope_gvcf.sh: line 100: /public/home/software/opt/bio/software/Sentieon/201808.07/bin/sentieon: No such file or directory
+DNAscope_gvcf.sh: line 101: /public/home/software/opt/bio/software/Sentieon/201808.07/bin/sentieon: No such file or directory
+rm: _sorted.bam: No such file or directory
+DNAscope_gvcf.sh: line 110: /public/home/software/opt/bio/software/Sentieon/201808.07/bin/sentieon: No such file or directory
+DNAscope_gvcf.sh: line 113: /public/home/software/opt/bio/software/Sentieon/201808.07/bin/sentieon: No such file or directory
+DNAscope_gvcf.sh: line 114: /public/home/software/opt/bio/software/Sentieon/201808.07/bin/sentieon: No such file or directory
+DNAscope_gvcf.sh: line 115: /public/home/software/opt/bio/software/Sentieon/201808.07/bin/sentieon: No such file or directory
+DNAscope_gvcf.sh: line 118: /public/home/software/opt/bio/software/Sentieon/201808.07/bin/sentieon: No such file or directory
+DNAscope_gvcf.sh: line 120: bgzip: command not found
+rm: illegal option -- s
+usage: rm [-f | -i] [-dPRrvW] file ...
+       unlink file
+DNAscope_gvcf.sh: line 122: /public/home/software/opt/bio/software/Sentieon/201808.07/bin/sentieon: No such file or directory
